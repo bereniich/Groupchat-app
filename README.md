@@ -24,7 +24,7 @@ Both the client and server compress outgoing messages using a Huffman coding alg
 2. Accepts client connections
 3. Launches a separate thread for each client
 4. Receives compressed messages
-6. Broadcasts compressed messages to all connected clients
+5. Broadcasts compressed messages to all connected clients
 
 ### Client:
 1. Connects to the server
