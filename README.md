@@ -39,7 +39,7 @@ Both the client and server compress outgoing messages using a Huffman coding alg
 ### Compile the server
 g++ server.cpp huffman.cpp -o server -pthread
 
-##Compile the client
+### Compile the client
 g++ client.cpp huffman.cpp -o client -pthread
 
 ### Run the server
