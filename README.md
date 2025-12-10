@@ -37,15 +37,23 @@ Both the client and server compress outgoing messages using a Huffman coding alg
 ## Building and Running
 
 ### Compile the server
+```
 g++ server.cpp huffman.cpp -o server -pthread
+```
 
 ### Compile the client
+```
 g++ client.cpp huffman.cpp -o client -pthread
+```
 
 ### Run the server
+```
 ./server
+```
 ### Run multiple clients
+```
 ./client <IP> <PORT> <USERNAME>
+```
 
 ## Future Work and Improvements
 
@@ -60,4 +68,4 @@ Ivan Berenić
 Faculty of Technical Sciences – Novi Sad
 Department of Computer and Control Engineering
 
-```
+
