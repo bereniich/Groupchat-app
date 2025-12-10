@@ -60,5 +60,4 @@ Ivan Berenić
 Faculty of Technical Sciences – Novi Sad
 Department of Computer and Control Engineering
 
-Ako želiš, mogu ti dopuniti README instrukcijama o formatu poruke, listom poznatih problema, ili dijagramom komunikacije.
 ```
